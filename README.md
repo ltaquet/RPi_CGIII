@@ -6,4 +6,4 @@ Ensure SSH capabilities are enabled in 'Preferences' > 'Raspberry Pi Configurati
 
 For each participant, create a directory named with their PID inside the 'data' directory
 
-When calling cg3.py within 'code', **_Python3 cg3.py** PID_
+When calling cg3.py within 'code', **Python3 cg3.py** PID
